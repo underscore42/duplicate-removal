@@ -1,5 +1,5 @@
 # duplicate-removal
-Finds duplicate files via hashing in a given directory, removal is optional
+Finds duplicate files via hashing in a given directory, recursive, removal is optional
 
 Usage: call with a path to work on
 
